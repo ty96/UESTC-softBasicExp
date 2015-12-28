@@ -94,5 +94,3 @@ LinkedList LinkedListDelete(LinkedList L, int i) {
 }
 
 
-
-
