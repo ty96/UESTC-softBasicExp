@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 .idea
 *.xcodeproj
-=======
 .DS_store
 
-.idea
-
-experiment.xcodeproj
->>>>>>> 8fb74f6bcdcc6f6a5357e6d0861c193007902edf
